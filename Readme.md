@@ -27,7 +27,7 @@ RDKit CMake build flags:
 
 Runtime dependcies of binary:
 
-```sh
+```console
 $ ldd libGraphMolWrap.so
         linux-vdso.so.1 (0x00007ffe7e75a000)
         libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007ff850d2f000)
